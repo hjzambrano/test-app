@@ -1,0 +1,14 @@
+{
+  "main.css": "http://isclp-106:8080/test-app/static/css/main.11941e9c.chunk.css",
+  "main.js": "http://isclp-106:8080/test-app/static/js/main.3b6a7492.chunk.js",
+  "main.js.map": "http://isclp-106:8080/test-app/static/js/main.3b6a7492.chunk.js.map",
+  "static/js/1.a0c2eb18.chunk.js": "http://isclp-106:8080/test-app/static/js/1.a0c2eb18.chunk.js",
+  "static/js/1.a0c2eb18.chunk.js.map": "http://isclp-106:8080/test-app/static/js/1.a0c2eb18.chunk.js.map",
+  "runtime~main.js": "http://isclp-106:8080/test-app/static/js/runtime~main.dd6c2516.js",
+  "runtime~main.js.map": "http://isclp-106:8080/test-app/static/js/runtime~main.dd6c2516.js.map",
+  "static/media/logo.svg": "http://isclp-106:8080/test-app/static/media/logo.5d5d9eef.svg",
+  "static/css/main.11941e9c.chunk.css.map": "http://isclp-106:8080/test-app/static/css/main.11941e9c.chunk.css.map",
+  "index.html": "http://isclp-106:8080/test-app/index.html",
+  "precache-manifest.897bc071c7d8589f95a1a40b7a3c6644.js": "http://isclp-106:8080/test-app/precache-manifest.897bc071c7d8589f95a1a40b7a3c6644.js",
+  "service-worker.js": "http://isclp-106:8080/test-app/service-worker.js"
+}
